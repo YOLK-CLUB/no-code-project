@@ -1,7 +1,2 @@
-echo "# no-code-project" >> https://www.canva.com/design/DAGiENUNNhM/bolnw74Q_7vKCR1WwLloOA/edit?utm_content=DAGiENUNNhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/YOLK-CLUB/no-code-project.git
-git push -u origin main
+# no-code-project" >> https://www.canva.com/design/DAGiENUNNhM/bolnw74Q_7vKCR1WwLloOA/edit?utm_content=DAGiENUNNhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+feel free to check out the pitch-deck on canva :)
